@@ -17,10 +17,4 @@ Aplicativo de receitas desenvolvido com **React Native**, permitindo que usuári
 - [React Navigation](https://reactnavigation.org/) — navegação entre telas
 - [AsyncStorage](https://react-native-async-storage.github.io/async-storage/) — armazenamento local de dados
 
-*(Se estiver usando alguma API ou Firebase, adicione aqui também.)*
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
